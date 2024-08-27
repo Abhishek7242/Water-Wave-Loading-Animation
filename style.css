@@ -3,9 +3,7 @@
             padding: 0;
             box-sizing: border-box;
         }
-        body{
-            background: rgb(0, 255, 0);
-        }
+    
 .circle{
     position: absolute;
     top: 50%;
